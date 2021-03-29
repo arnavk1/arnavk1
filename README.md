@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 📫 How to reach me:
 <p align="center">
  <a href="https://linkedin.com/in/arnav-kashyap-64a3b2192/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <br/>
  <a href="arnavkashyap3108@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
