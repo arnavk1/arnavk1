@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Python, Data Structures and Algorithms
+🌱 I’m currently learning HTML/CSS and JAVASCRIPT
 <br />
 📫 How to reach me:
 <p align="center">
